@@ -45,7 +45,7 @@ Pie chart showing our top customers, and the tool tip shows the no of shipments 
 
 
 (https://github.com/username/repo/assets/image.png)
-![Dashboard Preview]()
+![Dashboard Preview](https://github.com/faseen73/Logistics-dashboard/blob/main/logistics%20ss.png)
 
 (https://github.com/username/repo/assets/image.png)
 ![Dashboard Preview]()
