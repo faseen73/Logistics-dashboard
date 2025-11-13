@@ -42,3 +42,10 @@ Pie chart showing our top customers, and the tool tip shows the no of shipments 
 •	Identified the most common shipment routes and their average kilometres.
 •	Reducing the operation cost by identifying the shipment routes with the most delays.
 •	Identified the supplier who is causing the most delays so that we could take necessary steps to avoid further delays.
+
+
+(https://github.com/username/repo/assets/image.png)
+![Dashboard Preview]()
+
+(https://github.com/username/repo/assets/image.png)
+![Dashboard Preview]()
